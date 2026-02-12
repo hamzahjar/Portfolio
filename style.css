@@ -1,0 +1,19 @@
+#introtitle{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 2.5em;
+}
+#myIntro{
+    font-family: 'IBM Plex Sans', sans-serif;
+    font-size: 1.2em;
+    color:rgb(108, 108, 108)
+}
+#resumebutton{
+    background-color: rgb(26, 25, 25);
+    border-radius: 9px;
+    border: none;
+    margin-left: 40px;
+    padding: 15px 25px;
+    color:rgb(255, 255, 255);
+    font-family: 'IBM Plex Sans', sans-serif;
+    font-size: 1em;
+}
